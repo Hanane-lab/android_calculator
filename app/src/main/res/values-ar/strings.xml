@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My first Application</string>
+    <string name="stvLogin">تسجيل الدخول</string>
+    <string name="shintLogin">ادخل معرفك هنا</string>
+    <string name="sbtnValider">تسجيل الدخول</string>
+</resources>
